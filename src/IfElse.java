@@ -12,8 +12,8 @@ public class IfElse
         {
             System.out.println("Uneseni broj je manji od 1000.");
             if(num > 500)
-            
-              System.out.println("Uneseni broj je veci od 50.");
+            {
+              System.out.println("Uneseni broj je veci od 500.");
             }
         }
         else
